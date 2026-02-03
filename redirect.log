@@ -1,0 +1,6 @@
+PING www.google.com (142.250.193.36) 56(84) bytes of data.
+64 bytes from tzdelb-ao-in-f4.1e100.net (142.250.193.36): icmp_seq=1 ttl=110 time=12.0 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 12.019/12.019/12.019/0.000 ms
